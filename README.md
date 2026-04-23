@@ -30,5 +30,3 @@ make build CADDY_VERSION=2.9.0 TAG=2.9.0
 ```
 
 See `make help` for all options.
-
-# caddy-cloudflare
